@@ -12,4 +12,12 @@ public class Main {
             System.out.print("i = " + i);
         }
     }
+    public static int suma(int a,int b){
+
+            return a+b;
+        }
+
+
+
+    }
 }
